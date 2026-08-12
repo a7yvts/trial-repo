@@ -1,4 +1,5 @@
 # trial-repo
 this is my first repo
 <br>
-author - ayush vats
+author - ayush vats (trying to learn git and github)
+
